@@ -1,0 +1,15 @@
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\bin\Debug\netstandard2.0\LoginTask.deps.json
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\bin\Debug\netstandard2.0\LoginTask.dll
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\bin\Debug\netstandard2.0\ref\LoginTask.dll
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\bin\Debug\netstandard2.0\LoginTask.pdb
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\LoginTask.AssemblyInfoInputs.cache
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\LoginTask.AssemblyInfo.cs
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\LoginTask.csproj.CoreCompileInputs.cache
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\LoginTask.dll
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\ref\LoginTask.dll
+C:\Users\kanil\source\repos\LoginTask\LoginTask\LoginTask\obj\Debug\netstandard2.0\LoginTask.pdb

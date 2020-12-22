@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginTask.Views.LoginPage"
+              BackgroundImageSource="@drawable/worldmap">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" Padding="10,10,10,0">
+            <Label Text="LOGIN" FontSize="22" TextColor="#222222" HorizontalOptions="CenterAndExpand" Margin="0,100,0,0"/>
+
+
+            <Entry Text="{Binding UserName}" Placeholder="example@sembcorp.com"  FontSize="16" TextColor="#ffffff" Margin="0,100,0,0"/>
+            <Entry Text="{Binding Password}" Placeholder="Password" FontSize="16" TextColor="#ffffff" />
+            <Button Text="LOGIN" FontSize="14" Command="{Binding LoginButton}" HorizontalOptions="Center" Margin="20,20,20,0" 
+                    Padding="35,0,30,0" BackgroundColor="OrangeRed" TextColor="#ffffff" CornerRadius="25"  />
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

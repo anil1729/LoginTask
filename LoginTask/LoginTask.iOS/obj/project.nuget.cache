@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r1gsBHHu4gD0caiqAyMCQlHlvI6b3mFCFKvbWHR1mEiAEjQfCn/EXvRjk1UI9StKEeEkUq84Zm4D9/lUOwNF5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kanil\\source\\repos\\LoginTask\\LoginTask\\LoginTask.iOS\\LoginTask.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanil\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
